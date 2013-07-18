@@ -16,6 +16,15 @@ a {
 	margin-top: -80px;
 }
 
+.header a {
+	margin-right: 4px;
+}
+
+img {
+    width:20px; /* you can use % */
+    height: auto;
+}
+
 a:link {
 	color: black;
 }
